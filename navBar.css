@@ -28,7 +28,7 @@
 }
 .menuList p:hover {
     cursor: pointer;
-    background-color: coral;
+    background-color: green;
 }
 
 @media screen and (min-width: 300px) and (max-width:800px) {
